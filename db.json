@@ -1,17 +1,24 @@
 {
- "hyderabad": [
-    {"place":"Sanath Nagar","lat": "17.4527", "long": "78.4434"},
-    {"place":"Hafeezpet","lat": "17.4842", "long": "78.3603"},
-    {"place":"Tarnaka","lat": "17.4283", "long": "78.5386"}        
-  ],
-  "kurnool": [
-    {"place":"Shamshabad","lat": "17.2512", "long": "78.4377"},
-    {"place":"Jadcherla","lat": "16.7626", "long": "78.1393"},
-    {"place":"Kinda reddy fort","lat": "15.833866", "long": "78.048626"}    
-  ],
-  "vizag": [
-    {"place":"Visakhapatnam","lat": "17.6868", "long": "83.2185"},
-    {"place":"Seethammadhara","lat": "17.7430", "long": "83.3108"},
-    {"place":"Araku Valley","lat": "18.3273", "long": "82.8775"}
+"posts":[	
+  {"hyderabad": [
+    {"id":1,"place":"Sanath Nagar","lat": "17.4527", "long": "78.4434"},
+    {"id":2,"place":"Hafeezpet","lat": "17.4842", "long": "78.3603"},
+    {"id":3,"place":"Tarnaka","lat": "17.4283", "long": "78.5386"}        
   ]
+  },
+  {"kurnool": [
+    {"id":1,"place":"Shamshabad","lat": "17.2512", "long": "78.4377"},
+    {"id":2,"place":"Jadcherla","lat": "16.7626", "long": "78.1393"},
+    {"id":3,"place":"Kinda reddy fort","lat": "15.833866", "long": "78.048626"}    
+  ]},
+  {"vizag": [
+    {"id":1,"place":"Visakhapatnam","lat": "17.6868", "long": "83.2185"},
+    {"id":2,"place":"Seethammadhara","lat": "17.7430", "long": "83.3108"},
+    {"id":3,"place":"Araku Valley","lat": "18.3273", "long": "82.8775"}
+  ]
+  }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
