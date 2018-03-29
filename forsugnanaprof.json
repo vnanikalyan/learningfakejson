@@ -1,12 +1,12 @@
 {
   "hyderabad": [
-    {"place":"Sanath Nagar",lat": "17.4527", "long": "78.4434"},
+    {"place":"Sanath Nagar","lat": "17.4527", "long": "78.4434"},
     {"place":"Hafeezpet","lat": "17.4842", "long": "78.3603"},
     {"place":"Tarnaka","lat": "17.4283", "long": "78.5386"}
         
   ],
   "kurnool": [
-    {"place":"Shamshabad","lat": "17.2512", "long": "78.4377"}
+    {"place":"Shamshabad","lat": "17.2512", "long": "78.4377"},
     {"place":"Jadcherla","lat": "16.7626", "long": "78.1393"},
     {"place":"Kinda reddy fort","lat": "15.833866", "long": "78.048626"}    
   ],
